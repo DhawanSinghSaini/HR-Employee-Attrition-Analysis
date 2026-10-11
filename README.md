@@ -16,7 +16,7 @@ This project provides an end-to-end, data-driven diagnostic of employee turnover
 * **Total Headcount:** 1,470 Employees
 * **Total Departures:** 237 Employees
 * **Baseline Attrition Rate:** 16.1%
-* **High-Risk Active Staff:** 177 Employees (Identified for immediate retention intervention)
+* **High-Risk Active Staff:** 286 Employees (Identified for immediate retention intervention)
 * **High-Risk Attrition Rate:** 38.1% (vs. 7.4% in Low-Risk Tier)
 
 ---
